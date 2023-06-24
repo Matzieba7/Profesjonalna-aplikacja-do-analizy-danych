@@ -56,3 +56,16 @@ Sekcja graficzna aplikacji:
 2. Użyteczność - system musi być łatwy w obsłudze i intuicyjny.
 3. Wydajność – aplikacja zapewnia wykonywanie swoich funkcji bez dużych opóźnień i przestojów niezależnie od mocy obliczeniowej komputera użytkownika
 4. Kolorystyka aplikacji -  biały, szary, zielony.
+
+### Diagram klas
+![image](https://github.com/Matzieba7/Profesjonalna-aplikacja-do-analizy-danych/assets/80106851/a836b426-0ace-4587-9b58-08bd99e90dce)  
+  
+### Diagram obiektów
+![image](https://github.com/Matzieba7/Profesjonalna-aplikacja-do-analizy-danych/assets/80106851/da3ccaaa-3d20-45a4-a79f-7095ab50dbd3)
+  
+### Wykorzystane technologie
+1. IBExpert - narzędzie do tworzenia oraz zarządzania bazami danych oraz wykonywania zapytań SQL.  
+2. Embarcadero Delphi 10.3 Rio - narzędzie do tworzenia oprogramowania.
+3. Komponenty FastReport, DevExpress - komponenty dedykowane do narzędzia Delphi umożliwiające tworzenie raportów oraz grafów na podstawie zapytań do bazy danych.
+  
+### Autor: Zięba Mateusz nr. albumu: 13388
