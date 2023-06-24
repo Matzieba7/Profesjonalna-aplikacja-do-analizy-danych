@@ -31,7 +31,7 @@ Sekcja graficzna aplikacji:
 1. Stworzenie dokumentacji projektu  
 2. Utworzenie nowego projektu w Delphi 10.3  
 3. Zainicjowanie repozytorium na platformie GitHub  
-4. Obróbka przykładowych danych  
+4. Obróbka głównych danych  
 5. Przygotowanie prototypu bazy danych  
 6. Stworzenie wstępnej części graficznej aplikacji  
 7. Utworzenie mechanizmu połączenia aplikacji z bazą danych  
@@ -41,6 +41,18 @@ Sekcja graficzna aplikacji:
 11. Utworzenie okna logowania użytkownika  
 12. Dodanie tablic i procedur związanych z logowaniem użytkownika w bazie danych
 13. Określenie mechanizmu tworzenia raportów  
-14. Druga część testów funkcjonalności aplikacji na przykładowych danych z pliku CSV  
-15. Kolejne etapy pracy nad aplikacją zostaną określone w trakcie późniejszych prac  
+14. Druga część testów funkcjonalności aplikacji na głównych danych z pliku CSV  
+15. Kolejne etapy pracy nad aplikacją zostaną określone w trakcie późniejszych prac
+  
+### Wymagania Funkcjonalne     
+1. Logika użytkowników - domyślne konto admina powinno umożliwiać zakładanie kont zwykłych użytkowników.  
+2. Aktualizacja danych - aplikacja ma możliwość edycji istniejących danych oraz możliwość dodawania nowych.  
+3. Generowanie raportów - ta funkcjonalność ma zapewnić użytkownikowi możliwość generowania raportów w konkretnych formatach.  
+4. Wizualizacja danych - spełnienie tej funkcjonalności zapewnia wizualizacje danych za pomocą tabeli oraz grafów i wykresów.  
+5. Analiza danych -  aplikacja powinna umożliwiać analizę danych biorącą pod uwagę wiele czynników
 
+### Wymagania Niefunkcjonalne 
+1. Skalowalność - system musi mieć możliwość skalowania w górę lub w dół w zależności od potrzeb.
+2. Użyteczność - system musi być łatwy w obsłudze i intuicyjny.
+3. Wydajność – aplikacja zapewnia wykonywanie swoich funkcji bez dużych opóźnień i przestojów niezależnie od mocy obliczeniowej komputera użytkownika
+4. Kolorystyka aplikacji -  biały, szary, zielony.
