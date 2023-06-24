@@ -16,11 +16,31 @@ Tworzenie bazy danych:
 - Firebird  
 - MSSQL  
 - XML
-  
+
 Zdefiniowanie formatów grafów i raportów:  
-- tabelaryczne  
+- tabelaryczne    
 - wykresy słupkowe i kołowe  
 - opisowe  
 - łączone
-    
-Mechanizm filtrowania i sortowania danych.  
+
+Sekcja graficzna aplikacji:
+- Wyświetlanie zaimportowancych i dodanych danych    
+- Mechanizm filtrowania i sortowania danych
+
+#### Fazy projektu:
+1. Stworzenie dokumentacji projektu  
+2. Utworzenie nowego projektu w Delphi 10.3  
+3. Zainicjowanie repozytorium na platformie GitHub  
+4. Obróbka przykładowych danych  
+5. Przygotowanie prototypu bazy danych  
+6. Stworzenie wstępnej części graficznej aplikacji  
+7. Utworzenie mechanizmu połączenia aplikacji z bazą danych  
+8. Zaprojektowanie logiki importu danych z plików CSV/XLS do bazy danych poprzez aplikację  
+9. Stworzenie procedur do pobierania, dodawania, updatu i usuwania danych  
+10. Wstępne testy dotychczasowych funkcjonalności  
+11. Utworzenie okna logowania użytkownika  
+12. Dodanie tablic i procedur związanych z logowaniem użytkownika w bazie danych
+13. Określenie mechanizmu tworzenia raportów  
+14. Druga część testów funkcjonalności aplikacji na przykładowych danych z pliku CSV  
+15. Kolejne etapy pracy nad aplikacją zostaną określone w trakcie późniejszych prac  
+
