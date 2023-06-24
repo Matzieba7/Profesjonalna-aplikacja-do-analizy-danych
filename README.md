@@ -15,10 +15,12 @@ Celem biznesowym badania danych tego typu jest przyczynienie się do wyekstrahow
 Tworzenie bazy danych:  
 - Firebird  
 - MSSQL  
-- XML  
+- XML
+  
 Zdefiniowanie formatów grafów i raportów:  
 - tabelaryczne  
 - wykresy słupkowe i kołowe  
 - opisowe  
-- łączone  
+- łączone
+    
 Mechanizm filtrowania i sortowania danych.  
