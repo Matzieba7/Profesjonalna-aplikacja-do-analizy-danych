@@ -10,4 +10,15 @@ Aktualnie istnieje kilka rozwiązań do analizy danych, jednakże większość z
 
 Użytkownicy na podstawie otrzymanego poziomu dostępu do aplikacji, będą mogli (po zalogowaniu) uzyskać dostęp do poszczególnych funkcji systemu(np. dostęp typu admin, user). 
 
-Celem biznesowym badania danych tego typu jest przyczynienie się do wyekstrahowania największych źródeł zanieczyszczeń w danym okresie czasu przez firmę czy dany zakres gospodarki.
+Celem biznesowym badania danych tego typu jest przyczynienie się do wyekstrahowania największych źródeł zanieczyszczeń w danym okresie czasu przez firmę czy dany zakres gospodarki.  
+#### Zakres projektu:  
+Tworzenie bazy danych:  
+- Firebird  
+- MSSQL  
+- XML  
+Zdefiniowanie formatów grafów i raportów:  
+- tabelaryczne  
+- wykresy słupkowe i kołowe  
+- opisowe  
+- łączone  
+Mechanizm filtrowania i sortowania danych.  
